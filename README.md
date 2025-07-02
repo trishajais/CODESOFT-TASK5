@@ -111,7 +111,3 @@ The resampling technique (SMOTE) significantly improved the model's ability to d
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-Would you like me to generate a `requirements.txt` file for this project too?
